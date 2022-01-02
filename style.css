@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+
+.container{
+    align-content: center;
+    border: 6px solid greenyellow;
+    text-align: center;
+    background-color: hotpink;
+    width: auto;
+    position: absolute;
+    display: inline-block;
+    padding: 0 10rem 0 10rem
+}
