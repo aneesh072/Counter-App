@@ -1,0 +1,34 @@
+create a Div{
+    put another div for number{
+
+        example --80
+    }
+
+
+    create another div{
+        for increment
+    }
+
+    create another div{
+        for decrement
+    }
+
+    create another div for reset{
+
+    }
+
+}
+
+
+JAVASCRIPT-----
+function increase{
+    counter +1
+}
+
+function decrease{
+    counter -1
+}
+
+reset{
+set the sum to 0
+}
