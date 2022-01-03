@@ -11,8 +11,10 @@ mainNumner.innerText = parseInt(mainNumber.innerText) + 1;
 
 btnDecrease.addEventListener('click', ()=> {
   console.log("Decreased");
+  mainNumner.innerText = parseInt(mainNumber.innerText) - 1; 
 });
 
 btnReset.addEventListener('click', ()=> {
   console.log("Reset");
+  mainNumner.innerText = 0;
 });
